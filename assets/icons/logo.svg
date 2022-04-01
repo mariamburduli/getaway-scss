@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109.78" height="26.842" viewBox="0 0 109.78 26.842">
+  <g id="Group_29" data-name="Group 29" transform="translate(-88.22 -36)">
+    <g id="Group" transform="translate(89.249 55.476) rotate(-59)">
+      <path id="Vector" d="M0,0H16.888" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" stroke-dasharray="0 0"/>
+      <path id="Vector-2" data-name="Vector" d="M14.462,0a.81.81,0,0,1,.76,1.273L8.467,10.561a1.014,1.014,0,0,1-1.6,0L.108,1.273A.882.882,0,0,1,.952,0Z" transform="translate(0.737 2.547)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" stroke-dasharray="0 0"/>
+    </g>
+    <text id="Getaway" transform="translate(112 56)" fill="#fff" font-size="20" font-family="AirbnbCerealApp-Bold, Airbnb Cereal App" font-weight="700"><tspan x="0" y="0">Getaway</tspan></text>
+  </g>
+</svg>
